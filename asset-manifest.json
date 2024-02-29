@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ksea-website-final-prototype/static/css/main.68b4308d.css",
+    "main.js": "/ksea-website-final-prototype/static/js/main.72819a8c.js",
+    "static/js/453.030be8d8.chunk.js": "/ksea-website-final-prototype/static/js/453.030be8d8.chunk.js",
+    "static/media/majorex-1.png": "/ksea-website-final-prototype/static/media/majorex-1.ad67f09ff9ee11472278.png",
+    "static/media/majorex-2.png": "/ksea-website-final-prototype/static/media/majorex-2.8fc21ccd30db9af19414.png",
+    "static/media/logo.png": "/ksea-website-final-prototype/static/media/logo.dc6d08d57625a9d571a6.png",
+    "static/media/callout-1.png": "/ksea-website-final-prototype/static/media/callout-1.70422413ee1b3f4641b9.png",
+    "static/media/ice-2.jpeg": "/ksea-website-final-prototype/static/media/ice-2.4b07cda68672ed8fd569.jpeg",
+    "static/media/officers.jpeg": "/ksea-website-final-prototype/static/media/officers.73019e0ba71bb8cd83c3.jpeg",
+    "static/media/yg.png": "/ksea-website-final-prototype/static/media/yg.e3abbab236126cdcd452.png",
+    "static/media/ice-1.jpeg": "/ksea-website-final-prototype/static/media/ice-1.8092184889d0d2652669.jpeg",
+    "static/media/logo-large.png": "/ksea-website-final-prototype/static/media/logo-large.756a1ec10f633ed93cb9.png",
+    "static/media/banner.png": "/ksea-website-final-prototype/static/media/banner.57360a0c690b38eee947.png",
+    "static/media/logo_footer.png": "/ksea-website-final-prototype/static/media/logo_footer.8b4e2822fb54e30b3e0b.png",
+    "static/media/logo.svg": "/ksea-website-final-prototype/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ksea-website-final-prototype/index.html",
+    "main.68b4308d.css.map": "/ksea-website-final-prototype/static/css/main.68b4308d.css.map",
+    "main.72819a8c.js.map": "/ksea-website-final-prototype/static/js/main.72819a8c.js.map",
+    "453.030be8d8.chunk.js.map": "/ksea-website-final-prototype/static/js/453.030be8d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68b4308d.css",
+    "static/js/main.72819a8c.js"
+  ]
+}
